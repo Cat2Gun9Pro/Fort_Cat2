@@ -1,0 +1,29 @@
+body {
+    font-family: sans-serif;
+    padding: 20px;
+}
+header{
+    background-color: blue;
+}
+p{
+    color:firebrick;
+    font-size: 33px;
+}
+footer{
+    background-color: silver;
+}
+
+footer p{
+    background-color: plum;
+    font-size: 20px;
+
+}
+nav{
+   background-color: yellow;
+}
+nav p{
+    color:sandybrown;
+}
+img{
+    background-color: rgb(255, 0, 0);
+}
